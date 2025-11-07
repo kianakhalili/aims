@@ -1,0 +1,2 @@
+# aims
+Artificial intelligent
